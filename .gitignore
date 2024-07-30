@@ -13,6 +13,7 @@ yarn-error.log*
 lerna-debug.log*
 
 # OS
+.env.STAGE.dev
 .DS_Store
 
 # Tests
